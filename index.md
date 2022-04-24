@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+---
+layout: homepage
+---
 
-You can use the [editor on GitHub](https://github.com/katiekeegan/katiekeegan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Ph.D. student at ...
 
-### Markdown
+## Research Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Computer Vision:** image recognition, image generation, video captioning
+- **Machine Learning:** meta-learning, incremental learning, transfer learning
 
-```markdown
-Syntax highlighted code block
+## News
 
-# Header 1
-## Header 2
-### Header 3
+- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
+- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
+- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
+- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
-- Bulleted
-- List
+## Publications
 
-1. Numbered
-2. List
+- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+  <br>
+  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  <br>
+  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  <br>
+  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
-**Bold** and _Italic_ and `Code` text
+- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+  <br>
+  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  <br>
+  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  <br>
+  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
 
-[Link](url) and ![Image](src)
-```
+- **Meta-Transfer Learning for Few-Shot Learning**
+  <br>
+  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  <br>
+  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  <br>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Services
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/katiekeegan/katiekeegan/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Conference Reviewers: NeurIPS 2020, CVPR 2020.
+- Journal Reviewers: T-PAMI, IJCV.
