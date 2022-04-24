@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an undergraduate senior at Mary Baldwin University.
 
 ## Research Interests
 
@@ -13,10 +13,13 @@ I am a Ph.D. student at ...
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Apr. 2022]** Honored to receive both the [NSF GRFP](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList) and [DOE CSGF](https://www.krellinst.org/csgf/)! I was also informed that I may be the first MBU student to receive the NSF GRFP. Very grateful! Also presented [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at the [JMM 2022 Undergraduate Poster Session.](https://meetings.ams.org/math/jmm2022/meetingapp.cgi/Paper/8333)
+- **[Mar. 2022]** [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work received 3rd place in the [Undergraduate Statistics Research Project competition.](https://www.causeweb.org/usproc/usresp/2021/fall/winners)
+- **[Feb. 2022]**  Presented [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at the [2022 Georgia Scientific Computing Symposium at Georgia Tech](https://comp-physics.group/GSCS22/).
+- **[Jan. 2022]** Presented [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at the [National College Research Conference at Harvard.](https://www.hcura.org/about-ncrc)
+- **[Dec. 2021]** Presented [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at [JMU SUMS](https://www.jmu.edu/mathstat/sums/index.shtml). Also grateful to be featured in [MBU News!](https://marybaldwin.edu/news/2021/12/17/program-for-the-exceptionally-gifted-standout-katie-keegan-22-wins-national-attention/) and obtained my private pilot license on December 10!
+- **[Nov. 2021]** [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work is [available on arXiv](https://arxiv.org/abs/2111.00587) and was presented at [UIC UMS](https://homepages.math.uic.edu/ums/)
+
 
 ## Publications
 
@@ -43,8 +46,3 @@ I am a Ph.D. student at ...
   IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
   <br>
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
-
-## Services
-
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
