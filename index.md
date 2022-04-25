@@ -22,8 +22,7 @@ I am an undergraduate senior at Mary Baldwin University.
 
 ## Publications
 
-- **A Tensor SVD-based Classification Algorithm Applied to fMRI Data
-**
+- **A Tensor SVD-based Classification Algorithm Applied to fMRI Data**
   <br>
   **Katherine Keegan**, Tanvi Vishwanath, Yihua Xu
   <br>
