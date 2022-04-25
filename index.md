@@ -20,6 +20,8 @@ I am an undergraduate senior at Mary Baldwin University.
 - **[Dec. 2021]** Presented [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at [JMU SUMS](https://www.jmu.edu/mathstat/sums/index.shtml). Also grateful to be featured in [MBU News!](https://marybaldwin.edu/news/2021/12/17/program-for-the-exceptionally-gifted-standout-katie-keegan-22-wins-national-attention/) and obtained my private pilot license on December 10!
 - **[Nov. 2021]** [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work is [available on arXiv](https://arxiv.org/abs/2111.00587) and was presented at [UIC UMS](https://homepages.math.uic.edu/ums/)
 
+[News Archive](news.md)
+
 
 ## Publications
 
