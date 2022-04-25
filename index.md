@@ -6,6 +6,10 @@ layout: homepage
 
 I am an undergraduate senior at Mary Baldwin University.
 
+I started college at 14 through the Program for the Exceptionally Gifted and will graduate at 18.
+
+Thank you for visiting my website!
+
 ## Research Interests
 
 Scientific computing, computational mathematics, machine learning, image processing, numerical linear algebra
@@ -39,3 +43,7 @@ Scientific computing, computational mathematics, machine learning, image process
   SIAM Undergraduate Research Online, Volume 14, 2022, pp. 446-467.
   <br>
   [[PDF](https://www.siam.org/Portals/0/Documents/S141166PDF.pdf?ver=2021-09-23-070730-093)] 
+  
+## Other 
+
+In my free time, I am a licensed private pilot and enjoy flying! I also enjoy reading, weightlifting/running, and learning about international relations and cultural anthropology. 
