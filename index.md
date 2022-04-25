@@ -32,7 +32,7 @@ Scientific computing, computational mathematics, machine learning, image process
   <br>
   [[PDF](https://arxiv.org/abs/2111.00587)] 
 
-- **Media Processing and A Modified Watermarking Scheme Based on the Singular Value Decomposition **
+- **Media Processing and A Modified Watermarking Scheme Based on the Singular Value Decomposition**
   <br>
   **Katherine Keegan**, David Melendez, Jennifer Zheng
   <br>
