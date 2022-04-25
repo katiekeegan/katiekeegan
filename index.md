@@ -25,26 +25,17 @@ I am an undergraduate senior at Mary Baldwin University.
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **A Tensor SVD-based Classification Algorithm Applied to fMRI Data
+**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Katherine Keegan**, Tanvi Vishwanath, Yihua Xu
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://arxiv.org/abs/2111.00587)] 
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Media Processing and A Modified Watermarking Scheme Based on the Singular Value Decomposition **
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  **Katherine Keegan**, David Melendez, Jennifer Zheng
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  SIAM Undergraduate Research Online, Volume 14, 2022, pp. 446-467.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  [[PDF](https://www.siam.org/Portals/0/Documents/S141166PDF.pdf?ver=2021-09-23-070730-093)] 
