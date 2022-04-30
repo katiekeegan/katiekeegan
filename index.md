@@ -8,6 +8,8 @@ I am an undergraduate senior at Mary Baldwin University.
 
 I started college at 14 through the Program for the Exceptionally Gifted and will graduate at 18.
 
+This fall, I will be a mathematics PhD student at Emory University! I will be supported by a DOE Computational Science Graduate Fellowship and the Women in Natural Sciences Fellowship. 
+
 Thank you for visiting my website!
 
 ## Research Interests
