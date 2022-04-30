@@ -17,8 +17,9 @@ Scientific computing, computational mathematics, machine learning, image process
 
 ## Upcoming Activities
 
+- **[May 2022]**  Will present my undergraduate honors thesis on stereo matching at the MBU Capstone Festival.
 - **[June 2022]**  Will attend [Summer@ICERM 2020 Reunion Event](https://www.google.com/search?q=icerm+2020+reunion&oq=icerm+2020+reunion&aqs=chrome..69i57j69i61.1755j0j1&sourceid=chrome&ie=UTF-8)!
-- **[May 2022]**  Will present my undergraduate honors thesis at the MBU Capstone Festival!
+- **[July 2022]** Will present [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at SIAM Annual Meeting undergraduate research presentations.
 
 ## News
 
@@ -43,3 +44,9 @@ Scientific computing, computational mathematics, machine learning, image process
   SIAM Undergraduate Research Online, Volume 14, 2022, pp. 446-467.
   <br>
   [[PDF](https://www.siam.org/Portals/0/Documents/S141166PDF.pdf?ver=2021-09-23-070730-093)] 
+  
+## Other
+
+- Invited article at SIAM News: [here](https://sinews.siam.org/Details-Page/a-modified-watermarking-scheme-based-on-the-singular-value-decomposition)
+- Featured in MBU News articles: [here](https://marybaldwin.edu/news/2021/12/17/program-for-the-exceptionally-gifted-standout-katie-keegan-22-wins-national-attention/) and [here](https://marybaldwin.edu/news/2022/04/29/senior-wins-prestigious-doctoral-research-fellowship/)
+- I am a licensed private pilot as of December 2021! [Here](https://youtu.be/YhEA6PkSirU) is a cool video of the MBU campus from the sky during a night flight lesson. 
