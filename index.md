@@ -22,7 +22,7 @@ Scientific computing, computational mathematics, machine learning, image process
 
 ## News
 
-- **[Apr. 2022]** Honored to receive both the [NSF GRFP](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList) and [DOE CSGF](https://www.krellinst.org/csgf/)! I was also informed that I may be the first MBU student to receive the NSF GRFP. Very grateful! Also presented [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at the [JMM 2022 Undergraduate Poster Session.](https://meetings.ams.org/math/jmm2022/meetingapp.cgi/Paper/8333)
+- **[Apr. 2022]** Honored to receive both the [NSF GRFP](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList) and [DOE CSGF](https://www.krellinst.org/csgf/)! I was also informed that I may be the first MBU student to receive the NSF GRFP. Also presented [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at the [JMM 2022 Undergraduate Poster Session.](https://meetings.ams.org/math/jmm2022/meetingapp.cgi/Paper/8333)
 - **[Mar. 2022]** [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work received 3rd place in the [Undergraduate Statistics Research Project competition.](https://www.causeweb.org/usproc/usresp/2021/fall/winners)
 
 [News Archive](news.md)
@@ -43,7 +43,3 @@ Scientific computing, computational mathematics, machine learning, image process
   SIAM Undergraduate Research Online, Volume 14, 2022, pp. 446-467.
   <br>
   [[PDF](https://www.siam.org/Portals/0/Documents/S141166PDF.pdf?ver=2021-09-23-070730-093)] 
-  
-## Other 
-
-In my free time, I am a licensed private pilot and enjoy flying! I also enjoy reading, weightlifting/running, and learning about international relations and cultural anthropology. 
