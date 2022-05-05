@@ -2,10 +2,18 @@
 layout: homepage
 ---
 # CV
+## Education
+### Mary Baldwin University
+- BS with Honors, summa cum laude
 - GPA: 4.00/4.00
 - Major: Applied Mathematics
 - Minors: Physics, Asian Studies
-- 
+
+### Kansai Gaidai University
+- Asian Studies Program - Remote Study Abroad
+- GPA: 4.00/4.00
+- Coursework: [“Japan and Globalization: A Cultural Approach” (Fall 2021)] and [“Globalization, Culture, and Identity in East Asia” (Spring 2022)]
+
 ## Courses
 ### Math
 - Calculus I & II
