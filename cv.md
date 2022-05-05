@@ -56,3 +56,5 @@ See full list [here](courses.md)
 - MBU President's Scholarship
 - MBU Program for the Exceptionally Gifted (admitted to college at age 14, graduating at age 18)
 
+
+Full CV available via email!
