@@ -6,7 +6,7 @@ layout: homepage
 
 I am an undergraduate senior at Mary Baldwin University.
 
-This fall, I will be a mathematics PhD student at Emory University! I will be supported by a [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) and [Emory's Women in Natural Sciences Fellowship.](https://www.gs.emory.edu/diversity/fellowships.html#:~:text=Women%20in%20Natural%20Sciences%20(WiNS,more%20gender%2Ddiverse%20academic%20community.)
+This fall, I will be a mathematics PhD student at Emory University! I will be supported by a [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) and [Emory's Women in Natural Sciences Fellowship](https://www.gs.emory.edu/admissions/finance_overview.html#:~:text=The%20Women%20in%20Natural%20Sciences,have%20demonstrated%20outstanding%20academic%20achievement.)
 
 Thank you for visiting my website!
 
