@@ -14,22 +14,21 @@ layout: homepage
 - GPA: 4.00/4.00
 - Coursework: [“Japan and Globalization: A Cultural Approach” (Fall 2021)] and [“Globalization, Culture, and Identity in East Asia” (Spring 2022)]
 
-## Courses
-### Math
-- Calculus I & II
+## Coursework
+
+### Highlights
 - Multivariable Calculus I & II
 - Numerical Analysis and Computing
 - Linear Algebra
 - Complex Analysis
 - Real Analysis
 - Ordinary Differential Equations
-- Discrete Mathematical Structures
 - Statistics I & II
 - Abstract Algebra 
 - Mathematics & Programming
-- History of Mathematics
-- Senior Seminar
 - Theory of Computation 
+
+See full list [here](courses.md)
 
 ### Science
 - Materials Science
