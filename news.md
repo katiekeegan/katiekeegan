@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## News Archive
-
+- **[Mar. 2022]** [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work received 3rd place in the [Undergraduate Statistics Research Project competition.](https://www.causeweb.org/usproc/usresp/2021/fall/winners)
 - **[Feb. 2022]**  Presented [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at the [2022 Georgia Scientific Computing Symposium at Georgia Tech](https://comp-physics.group/GSCS22/).
 - **[Jan. 2022]** Presented [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at the [National College Research Conference at Harvard.](https://www.hcura.org/about-ncrc)
 - **[Dec. 2021]** Presented [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at [JMU SUMS](https://www.jmu.edu/mathstat/sums/index.shtml). Also grateful to be featured in [MBU News!](https://marybaldwin.edu/news/2021/12/17/program-for-the-exceptionally-gifted-standout-katie-keegan-22-wins-national-attention/) and obtained my private pilot license on December 10!
