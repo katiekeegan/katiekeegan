@@ -6,7 +6,7 @@ layout: homepage
 
 Hello!
 
-I am a recent graduate of Mary Baldwin University and incoming PhD student in computational mathematics at Emory University. 
+I am a recent graduate of Mary Baldwin University and incoming Computational Math PhD student at Emory University. 
 
 In graduate school, I will be supported by a [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) and [Emory's Women in Natural Sciences Fellowship.](https://www.gs.emory.edu/admissions/finance_overview.html#:~:text=The%20Women%20in%20Natural%20Sciences,have%20demonstrated%20outstanding%20academic%20achievement.)
 
