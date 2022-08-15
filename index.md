@@ -16,15 +16,14 @@ Thank you for visiting my website!
 
 Scientific computing, computational mathematics, machine learning, image processing, numerical linear algebra
 
-
 ## Upcoming Activities
 
-- **[June 2022]**  Will attend [Summer@ICERM 2020 Reunion Event](https://www.google.com/search?q=icerm+2020+reunion&oq=icerm+2020+reunion&aqs=chrome..69i57j69i61.1755j0j1&sourceid=chrome&ie=UTF-8)!
-- **[July 2022]** Will present [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at SIAM Annual Meeting undergraduate research presentations and attend the [DOE CSGF 2022 Program Review.](https://www.krellinst.org/csgf/conf/2022)
+- **[August 2022]** Starting graduate school at Emory University! 
+- **[November 2022]** Will attend [Supercomputing 2022](https://sc22.supercomputing.org/) with the [first-year DOE CSGF cohort.](https://www.krellinst.org/csgf/about-doe-csgf/news-events/2022-incoming-class)
 
 ## News
-- **[May 2022]**  Presented undergraduate honors thesis on color considerations in stereo vision at the MBU Capstone Festival. Received [SIAM AN 22 Student Travel Grant](https://www.siam.org/conferences/conference-support/siam-student-travel-awards) to present [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at the undergraduate research session. Also grateful to be awarded the [Martha Stackhouse Grafton award (MBU's valedictorian award)](https://marybaldwin.edu/news/2022/05/18/mbufamily-celebrates-commencement-2022/) upon my graduation from MBU.
-- **[Apr. 2022]** Honored to receive both the [NSF GRFP](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList) and [DOE CSGF](https://www.krellinst.org/csgf/)! I was also informed that I may be the first MBU student to receive the NSF GRFP. Presented [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at the [JMM 2022 Undergraduate Poster Session.](https://meetings.ams.org/math/jmm2022/meetingapp.cgi/Paper/8333)
+- **[July 2022]** Presented [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at SIAM Annual Meeting undergraduate research presentations and attended the [DOE CSGF 2022 Program Review.](https://www.krellinst.org/csgf/conf/2022)
+- **[June 2022]**  Attended [Summer@ICERM 2020 Reunion Event](https://www.google.com/search?q=icerm+2020+reunion&oq=icerm+2020+reunion&aqs=chrome..69i57j69i61.1755j0j1&sourceid=chrome&ie=UTF-8)!
 
 [News Archive](news.md)
 
