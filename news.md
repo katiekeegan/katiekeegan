@@ -3,6 +3,8 @@ layout: homepage
 ---
 
 ## News Archive
+- **[May 2022]**  Presented undergraduate honors thesis on color considerations in stereo vision at the MBU Capstone Festival. Received [SIAM AN 22 Student Travel Grant](https://www.siam.org/conferences/conference-support/siam-student-travel-awards) to present [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at the undergraduate research session. Also grateful to be awarded the [Martha Stackhouse Grafton award (MBU's valedictorian award)](https://marybaldwin.edu/news/2022/05/18/mbufamily-celebrates-commencement-2022/) upon my graduation from MBU.
+- **[Apr. 2022]** Honored to receive both the [NSF GRFP](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList) and [DOE CSGF](https://www.krellinst.org/csgf/)! I was also informed that I may be the first MBU student to receive the NSF GRFP. Presented [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at the [JMM 2022 Undergraduate Poster Session.](https://meetings.ams.org/math/jmm2022/meetingapp.cgi/Paper/8333)
 - **[Mar. 2022]** [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work received 3rd place in the [Undergraduate Statistics Research Project competition.](https://www.causeweb.org/usproc/usresp/2021/fall/winners)
 - **[Feb. 2022]**  Presented [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at the [2022 Georgia Scientific Computing Symposium at Georgia Tech](https://comp-physics.group/GSCS22/).
 - **[Jan. 2022]** Presented [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at the [National College Research Conference at Harvard.](https://www.hcura.org/about-ncrc)
