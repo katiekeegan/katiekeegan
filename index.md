@@ -16,7 +16,7 @@ Scientific computing, computational mathematics, machine learning, image process
 
 ## Upcoming Activities
 
-- **[September 2022]** Will attend [SIAM Mathematics of Data Science 2022](https://www.siam.org/conferences/cm/conference/mds22) with support from the Emory Math Department. 
+- **[September 2022]** Will attend [SIAM Mathematics of Data Science 2022](https://www.siam.org/conferences/cm/conference/mds22) in-person in San Diego with support from the Emory Math Department. 
 - **[November 2022]** Will attend [Supercomputing 2022](https://sc22.supercomputing.org/) with the [first-year DOE CSGF cohort.](https://www.krellinst.org/csgf/about-doe-csgf/news-events/2022-incoming-class)
 
 ## News
