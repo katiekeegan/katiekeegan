@@ -34,7 +34,7 @@ Scientific computing, computational mathematics, machine learning, image process
   <br>
   SIAM Undergraduate Research Online, Volume 15, 2022, pp. 270-294.
   <br>
-  [[PDF](https://arxiv.org/abs/2111.00587)](https://www.siam.org/Portals/0/Publications/SIURO/Vol15/S145652R.pdf?ver=2022-08-29-124210-473)] 
+  [[PDF](https://www.siam.org/Portals/0/Publications/SIURO/Vol15/S145652R.pdf?ver=2022-08-29-124210-473)] 
 
 - **Media Processing and A Modified Watermarking Scheme Based on the Singular Value Decomposition**
   <br>
