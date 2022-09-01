@@ -40,7 +40,7 @@ Scientific computing, computational mathematics, machine learning, image process
   <br>
   **Katherine Keegan**, David Melendez, Jennifer Zheng
   <br>
-  SIAM Undergraduate Research Online, Volume 14, 2022, pp. 446-467.
+  SIAM Undergraduate Research Online, Volume 14, 2021, pp. 446-467.
   <br>
   [[PDF](https://www.siam.org/Portals/0/Documents/S141166PDF.pdf?ver=2021-09-23-070730-093)] 
   
