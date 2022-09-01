@@ -17,7 +17,7 @@ Scientific computing, computational mathematics, machine learning, image process
 ## Upcoming Activities
 
 - **[September 2022]** Will attend [SIAM Mathematics of Data Science 2022](https://www.siam.org/conferences/cm/conference/mds22) in-person in San Diego with support from the Emory Math Department. 
-- **[November 2022]** Will attend [Supercomputing 2022](https://sc22.supercomputing.org/) with the [first-year DOE CSGF cohort.](https://www.krellinst.org/csgf/about-doe-csgf/news-events/2022-incoming-class)
+- **[November 2022]** Will attend [Supercomputing 2022](https://sc22.supercomputing.org/) in-person in Dallas with support from the [DOE CSGF.](https://www.krellinst.org/csgf/)
 
 ## News
 - **[August 2022]** Started graduate school at Emory University! Also grateful that our [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work was [published in SIURO!](https://www.siam.org/Portals/0/Publications/SIURO/Vol15/S145652R.pdf?ver=2022-08-29-124210-473)
