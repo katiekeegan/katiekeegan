@@ -16,12 +16,11 @@ Scientific computing, computational mathematics, machine learning, image process
 
 ## Upcoming Activities
 
-- **[September 2022]** Will attend [SIAM Mathematics of Data Science 2022](https://www.siam.org/conferences/cm/conference/mds22) in-person in San Diego with support from the Emory Math Department. 
-- **[November 2022]** Will attend [Supercomputing 2022](https://sc22.supercomputing.org/) in-person in Dallas with support from the [DOE CSGF.](https://www.krellinst.org/csgf/)
+- **[June 2023]** Excited to intern at [RIKEN Center for Computational Science](https://www.r-ccs.riken.jp/en/)!
 
 ## News
-- **[August 2022]** Started graduate school at Emory University! Also grateful that our [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work was [published in SIURO!](https://www.siam.org/Portals/0/Publications/SIURO/Vol15/S145652R.pdf?ver=2022-08-29-124210-473)
-- **[July 2022]** Presented [Emory REU](http://www.mathcs.emory.edu/site/scicomp/REURET/) work at SIAM Annual Meeting undergraduate research presentations and attended the [DOE CSGF 2022 Program Review.](https://www.krellinst.org/csgf/conf/2022)
+- **[November 2022]** Attended [Supercomputing 2022](https://sc22.supercomputing.org/) in-person in Dallas with support from the [DOE CSGF.](https://www.krellinst.org/csgf/)
+- **[September 2022]** Attended [SIAM Mathematics of Data Science 2022](https://www.siam.org/conferences/cm/conference/mds22) in-person in San Diego with support from the Emory Math Department. 
 
 [News Archive](news.md)
 
