@@ -14,10 +14,6 @@ Thank you for visiting my website!
 
 Scientific computing, computational mathematics, machine learning, image processing, numerical linear algebra
 
-## Upcoming Activities
-
-- **[June 2023]** Excited to intern at [RIKEN Center for Computational Science](https://www.r-ccs.riken.jp/en/)!
-
 ## News
 - **[November 2022]** Attended [Supercomputing 2022](https://sc22.supercomputing.org/) in-person in Dallas with support from the [DOE CSGF.](https://www.krellinst.org/csgf/)
 - **[September 2022]** Attended [SIAM Mathematics of Data Science 2022](https://www.siam.org/conferences/cm/conference/mds22) in-person in San Diego with support from the Emory Math Department. 
