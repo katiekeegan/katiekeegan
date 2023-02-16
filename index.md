@@ -8,11 +8,13 @@ Hello!
 
 I am a first-year PhD student in Computational Math at Emory University, where I am supported by a [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) and [Emory's Women in Natural Sciences Fellowship.](https://www.gs.emory.edu/admissions/finance_overview.html#:~:text=The%20Women%20in%20Natural%20Sciences,have%20demonstrated%20outstanding%20academic%20achievement.)
 
+In summer 2023, I wil be in Tokyo, Japan, as a research intern at the [High Performance AI Systems Research Team](https://www.r-ccs.riken.jp/en/research/labs/hpaisrt/) at [RIKEN Center for Computational Science.](https://www.r-ccs.riken.jp/en/)
+
 Thank you for visiting my website!
 
 ## Research Interests
 
-Scientific computing, computational mathematics, machine learning, image processing, numerical linear algebra
+Scientific computing, linear/multilinear algebra, machine learning, graph data analysis, numerical methods
 
 ## News
 - **[November 2022]** Attended [Supercomputing 2022](https://sc22.supercomputing.org/) in-person in Dallas with support from the [DOE CSGF.](https://www.krellinst.org/csgf/)
