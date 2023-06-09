@@ -16,13 +16,6 @@ Thank you for visiting my website!
 
 Scientific computing, linear/multilinear algebra, graph/geometric machine learning, numerical methods
 
-## News
-- **[November 2022]** Attended [Supercomputing 2022](https://sc22.supercomputing.org/) in-person in Dallas with support from the [DOE CSGF.](https://www.krellinst.org/csgf/)
-- **[September 2022]** Attended [SIAM Mathematics of Data Science 2022](https://www.siam.org/conferences/cm/conference/mds22) in-person in San Diego with support from the Emory Math Department. 
-
-[News Archive](news.md)
-
-
 ## Publications
 
 - **A Tensor SVD-based Classification Algorithm Applied to fMRI Data**
