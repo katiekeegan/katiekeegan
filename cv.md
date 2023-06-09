@@ -31,19 +31,6 @@ layout: homepage
 - Tutor (math, physics, Japanese, French, writing), MBU Academic Resource Center, January 2020 - April 2022
 - Volunteer, Girls Who Code local elementary school chapter, Fall 2019
 
-## Coursework
-
-### Highlights 
-- Numerical Analysis and Computing
-- Linear Algebra
-- Complex Analysis
-- Real Analysis
-- Mathematics & Programming
-- Theory of Computation 
-
-See full list [here](courses.md)
-
-
 ## Selected Honors and Awards
 
 - DOE CSGF
