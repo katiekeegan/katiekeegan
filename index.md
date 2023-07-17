@@ -33,6 +33,5 @@ Thank you for visiting my website!
 ## Other
 
 - Invited article at SIAM News: [here](https://sinews.siam.org/Details-Page/a-modified-watermarking-scheme-based-on-the-singular-value-decomposition)
-- Featured in MBU News articles: [here](https://marybaldwin.edu/news/2021/12/17/program-for-the-exceptionally-gifted-standout-katie-keegan-22-wins-national-attention/) and [here](https://marybaldwin.edu/news/2022/04/29/senior-wins-prestigious-doctoral-research-fellowship/)
 - I am a licensed private pilot as of December 2021! [Here](https://youtu.be/YhEA6PkSirU) is a cool video of the MBU campus from the sky during a night flight lesson. 
 - When I'm not in the air or at a desk, I enjoy running, weightlifting, reading, and playing piano.
