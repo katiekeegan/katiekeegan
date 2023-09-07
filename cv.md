@@ -31,17 +31,12 @@ layout: homepage
 - Tutor (math, physics, Japanese, French, writing), MBU Academic Resource Center, January 2020 - April 2022
 - Volunteer, Girls Who Code local elementary school chapter, Fall 2019
 
-## Selected Honors and Awards
+## Awards
 
 - DOE CSGF
 - NSF GRFP (declined)
 - Emory Women in Natural Science Fellowship
 - Highest GPA in graduating MBU class
 - Phi Beta Kappa 
-- Google Computer Science Research Mentorship Scholar
 - MBU Experiential Learning Grant
-- MBU President's Scholarship
 - MBU Program for the Exceptionally Gifted (admitted to college at age 14, graduating at age 18)
-
-
-Full CV available via email!
