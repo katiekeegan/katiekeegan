@@ -8,7 +8,7 @@ Hello!
 
 I'm a second-year PhD student in Computational Math at Emory University, where I'm supported by a [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) and [Emory's Women in Natural Sciences Fellowship.](https://www.gs.emory.edu/admissions/finance_overview.html#:~:text=The%20Women%20in%20Natural%20Sciences,have%20demonstrated%20outstanding%20academic%20achievement.)
 
-In summer 2023, I was in Tokyo interning at the [High Performance AI Systems Research Team](https://www.r-ccs.riken.jp/en/research/labs/hpaisrt/) at [RIKEN Center for Computational Science.](https://www.r-ccs.riken.jp/en/)
+In summer 2023 and January 2024, I was in Tokyo at the [High Performance AI Systems Research Team](https://www.r-ccs.riken.jp/en/research/labs/hpaisrt/) at [RIKEN Center for Computational Science.](https://www.r-ccs.riken.jp/en/)
 
 Thank you for visiting my website!
 
