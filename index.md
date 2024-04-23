@@ -17,10 +17,10 @@ Thank you for visiting my website!
 🛩️ **[Lawrence Berkeley National Lab Summer Practicum](https://www.lbl.gov/)** 
 Berkeley, CA, May-August 2024
 
-🛩️ **[SIAM Imaging Science Workshop](https://www.siam.org/conferences/cm/conference/is24)**
+🛩️ **[SIAM Imaging Science Conference](https://www.siam.org/conferences/cm/conference/is24)**
 Atlanta, GA, May 2024
 
-🛩️ **"[QCD at the Femtoscale in the Era of Big Data" workshop](https://www.int.washington.edu/programs-and-workshops/24-2a)** 
+🛩️ **"[QCD at the Femtoscale in the Era of Big Data" Workshop](https://www.int.washington.edu/programs-and-workshops/24-2a)** 
 Seattle, WA, June 2024
 
 🛩️ **[DOE CSGF Annual Program Review](https://www.krellinst.org/csgf/about-doe-csgf/news-events/annual-program-review)** 
