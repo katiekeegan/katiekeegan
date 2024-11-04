@@ -19,7 +19,7 @@ Thank you for visiting my website!
 🛩️ **[Supercomputing 2024](https://sc24.supercomputing.org/)** 
 Atlanta, GA, November 2024
 
-🛩️ **[SIAM Computational Science & Engineering 2025]([https://www.siam.org/conferences/cm/conference/is24](https://www.siam.org/conferences-events/siam-conferences/cse25/))**
+🛩️ **[SIAM Computational Science & Engineering 2025](https://www.siam.org/conferences-events/siam-conferences/cse25/)**
 Fort Worth, TX, March 2025
 
 ## Publications
