@@ -21,7 +21,7 @@ layout: homepage
 
 ## Research Experience
 
-### Lawrence Berkeley National Laboratory
+### Lawrence Berkeley National Laboratory, May-August 2024
 - DOE CSGF Summer Practicum Visiting Research Student
 
 ### RIKEN Center for Computational Science, January 2024
