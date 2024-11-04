@@ -29,6 +29,7 @@ Fort Worth, TX, March 2025
   **Katherine Keegan**, Emil Vatai, Aleksandr Drozd, Pi-Yueh Chuang, Xingfu Wu, Nobuo Sato, Johann Rudi, Mohamed Wahib.
   <br>
   Submitted to ICLR, 2024.
+  
 - **Projected Tensor-Tensor Products for Efficient Computation of Optimal Multiway Data Representations**
   <br>
   **Katherine Keegan**, Elizabeth Newman
@@ -36,6 +37,7 @@ Fort Worth, TX, March 2025
   Submitted, 2024.
   <br>
   [[PDF](https://arxiv.org/pdf/2409.19402)]
+  
 - **Optimal Matrix-Mimetic Tensor Algebras via Variable Projection**
   <br>
   Elizabeth Newman, **Katherine Keegan**
@@ -43,6 +45,7 @@ Fort Worth, TX, March 2025
   Submitted, 2024.
   <br>
   [[PDF](https://arxiv.org/pdf/2406.06942)]
+  
 - **A Tensor SVD-based Classification Algorithm Applied to fMRI Data**
   <br>
   **Katherine Keegan**, Tanvi Vishwanath, Yihua Xu
