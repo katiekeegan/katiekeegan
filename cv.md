@@ -3,6 +3,10 @@ layout: homepage
 ---
 # CV
 ## Education
+### Emory University
+- MS in Computer Science, expected 2025
+- PhD in Computational Mathematics, expected 2027
+
 ### Mary Baldwin University
 - BS with Honors, summa cum laude
 - GPA: 4.00/4.00
@@ -16,6 +20,15 @@ layout: homepage
 
 
 ## Research Experience
+
+### Lawrence Berkeley National Laboratory
+- DOE CSGF Summer Practicum Visiting Research Student
+
+### RIKEN Center for Computational Science, January 2024
+- Visiting Research Student
+
+### RIKEN Center for Computational Science, June-August 2023
+- "HPC Computational Science International Internship" for international PhD students
 
 ### Emory University, May-July 2021
 - "Computational Mathematics for Data Science" REU program in "Learning from Images"
