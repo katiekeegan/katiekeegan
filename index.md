@@ -10,7 +10,7 @@ I'm a third-year PhD student in Computational Math at Emory University, where I'
 
 In summer 2024, I was in California at [Lawrence Berkeley National Lab](https://www.lbl.gov/) working with [Aydın Buluç.](https://people.eecs.berkeley.edu/~aydin/)
 
-In summer 2023 and January 2024, I was in Tokyo at the [High Performance AI Systems Research Team](https://www.r-ccs.riken.jp/en/research/labs/hpaisrt/) at [RIKEN Center for Computational Science.](https://www.r-ccs.riken.jp/en/) working with [Mohamed Wahib.](https://scholar.google.com/citations?user=C3fmEegAAAAJ&hl=en)
+In summer 2023 and January 2024, I was in Tokyo at the [High Performance AI Systems Research Team](https://www.r-ccs.riken.jp/en/research/labs/hpaisrt/) at [RIKEN Center for Computational Science](https://www.r-ccs.riken.jp/en/) working with [Mohamed Wahib.](https://scholar.google.com/citations?user=C3fmEegAAAAJ&hl=en)
 
 Thank you for visiting my website!
 
