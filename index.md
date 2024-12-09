@@ -12,7 +12,7 @@ In summer 2024, I was in California at [Lawrence Berkeley National Lab](https://
 
 In summer 2023 and January 2024, I was in Tokyo at the [High Performance AI Systems Research Team](https://www.r-ccs.riken.jp/en/research/labs/hpaisrt/) at [RIKEN Center for Computational Science](https://www.r-ccs.riken.jp/en/) working with [Mohamed Wahib.](https://scholar.google.com/citations?user=C3fmEegAAAAJ&hl=en)
 
-I'm interested in simulation-based inference, generative modeling, and uncertainty quantification.
+I'm interested in simulation-based inference, generative modeling, high dimensional data analysis, machine learning, and uncertainty quantification.
 
 Thank you for visiting my website!
 
@@ -26,12 +26,6 @@ Fort Worth, TX, March 2025
 
 ## Publications
 
-- **Simulation-Based Inference with Uncertainty Quantification using Generative Models in Quantum Chromodynamics**
-  <br>
-  **Katherine Keegan**, Emil Vatai, Aleksandr Drozd, Pi-Yueh Chuang, Xingfu Wu, Nobuo Sato, Johann Rudi, Mohamed Wahib.
-  <br>
-  Submitted to ICLR, 2024.
-  
 - **Projected Tensor-Tensor Products for Efficient Computation of Optimal Multiway Data Representations**
   <br>
   **Katherine Keegan**, Elizabeth Newman
